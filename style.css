@@ -1,0 +1,57 @@
+.nav {
+    background-color: #b8b3b3;
+    height: 50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home {
+    background-color: #575757;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    margin: 0px;
+    padding: 10px;
+    left: 30;
+    text-align: center;
+    font-size: 24px;
+}
+.diet {
+    background-color: #575757;
+    display: inline-block;
+    margin: 0px;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+}
+.habitat {
+    background-color: #575757;
+    display: inline-block;
+    margin: 0px;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.bodyStructure {
+    background-color: lightblue;
+    height: 500px;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    position: relative;
+  }
+.left {
+    float: left;
+    width: 20%;
+    background-color: teal;
+}
+.right {
+    float: right;
+    width: 80%;
+    background-color: purple;
+}
